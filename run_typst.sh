@@ -29,3 +29,6 @@ for dir in HW*; do
         fi
     fi
 done
+
+# 打包所有生成的pdf文件为zip
+zip -r compiled_pdfs.zip "$output_dir"
