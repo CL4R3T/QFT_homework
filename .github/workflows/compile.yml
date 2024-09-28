@@ -21,7 +21,7 @@ jobs:
           cache-dependency-path: requirements.typ
 
       - name: Create anonymous author info
-        run: echo "张三 2200011000"
+        run: echo "张三 2200011000" > .authorinfo
 
       - name: Run Typst Script
         run: |
