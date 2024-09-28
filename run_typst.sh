@@ -15,7 +15,7 @@ for dir in HW*; do
         if [ -f "$typ_file" ]; then
             echo "Processing $typ_file ..."
             # 使用typst compile命令编译.typ文件为pdf
-            typst compile "$typ_file"
+            typst compile "$typ_file" --root ../
 
             # 移动生成的pdf文件到output目录，假设pdf文件和typ文件同名
             pdf_file="${typ_file%.typ}.pdf"
