@@ -32,5 +32,5 @@ jobs:
       - name: Upload ZIP file to GitHub release
         uses: actions/upload-artifact@v3
         with:
-          name: compiled_pdfs
-          path: compiled_pdfs.zip  # 上传生成的 zip 文件
+          name: compiled-pdfs  # Artifact 名称
+          path: pdf_outputs/*.pdf  # 上传所有生成的 PDF 文件
