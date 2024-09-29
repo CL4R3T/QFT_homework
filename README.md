@@ -1,4 +1,6 @@
-该repo为2024秋季学期起进行的开源作业project之一欢迎各位核对纠错，也欢迎未来选课的学弟参考。本课程为《量子场论》，2024秋季，谭时纳老师授课。
+该repo为2024秋季学期起进行的开源作业project之一。欢迎各位核对纠错，也欢迎未来选课的学弟参考。
+
+本课程为《量子场论》，2024秋季，谭时纳老师授课。
 
 > 该repo仅作学习用途。This repo is ONLY FOR STUDY USE.
 
@@ -13,11 +15,7 @@
 
 每个学期作业的题目都有可能微调，所以极其不建议直接copy然后交了。
 
-> At least you have to read through the problems.
-
 个人建议先看一遍所有题目，试着花一点时间把难题做了，做不出再来看我有没有一些良好的思路。
-
-> At least you should try the hard problems.
 
 # 快速开始
 
