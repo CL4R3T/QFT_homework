@@ -1,9 +1,6 @@
 name: Run Typst Script and Release PDFs
 
 on:
-  push:
-    branches:
-      - main  # 监听 main 分支的 push 事件
   workflow_dispatch:  # 允许手动触发
 
 
